@@ -1,0 +1,23 @@
+{
+  "name": "my-first-serverless-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhanZhao30/my-first-serverless-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhanZhao30/my-first-serverless-project/issues"
+  },
+  "homepage": "https://github.com/ZhanZhao30/my-first-serverless-project#readme",
+  "devDependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
